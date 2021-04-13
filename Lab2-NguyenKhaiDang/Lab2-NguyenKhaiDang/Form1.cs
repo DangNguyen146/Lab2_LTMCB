@@ -46,5 +46,11 @@ namespace Lab2_NguyenKhaiDang
             Bai4 bai4 = new Bai4();
             bai4.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Bai5 bai5 = new Bai5();
+            bai5.Show();
+        }
     }
 }

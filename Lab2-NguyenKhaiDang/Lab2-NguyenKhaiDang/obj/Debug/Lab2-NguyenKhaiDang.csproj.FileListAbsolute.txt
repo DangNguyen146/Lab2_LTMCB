@@ -15,3 +15,4 @@ F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab2\Lab2-NguyenK
 F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab2\Lab2-NguyenKhaiDang\Lab2-NguyenKhaiDang\bin\Debug\Newtonsoft.Json.dll
 F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab2\Lab2-NguyenKhaiDang\Lab2-NguyenKhaiDang\bin\Debug\Newtonsoft.Json.xml
 F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab2\Lab2-NguyenKhaiDang\Lab2-NguyenKhaiDang\obj\Debug\Lab2-NguyenKhaiDang.csproj.CopyComplete
+F:\UIT_HK2\LapTrinhMangCanBan\ThucHanh\19521317-NguyenKhaiDang-lab2\Lab2-NguyenKhaiDang\Lab2-NguyenKhaiDang\obj\Debug\Lab2_NguyenKhaiDang.Bai5.resources
